@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Jarkerthesecond",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "TarriestCarton2.aternos.me",
     "port": 21501,
-    "version": "1.21.1"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
